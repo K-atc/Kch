@@ -1,0 +1,7 @@
+.bg-highlight {
+    background-color: #FFFFE0;
+    transition-property: background-color;
+    transition-duration: .8s;
+    transition-timing-function: ease-in;
+}
+
